@@ -1,0 +1,49 @@
+.homebody {
+    background-color: #FFFFFF;
+}
+
+.body{
+  width: 100%;
+}
+
+.container-fluid1{
+  padding-top: 60px;
+  padding-left: 50px;
+ }
+
+.text-justify{
+  padding-right: 50px;
+  padding-left: 40px;
+  padding-bottom: 30px
+}
+
+.descricaoMissao{
+  font-family: Helvetica, Arial, sans-serif, verdana;
+  font: verdana
+}
+
+.container-fluid2 {
+  background-color: #FFFFFF;
+  color: #000000;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+}
+
+section.megaCard{
+  background: black;
+}
+
+.card-image{
+  border: none;
+}
+
+.card{
+  margin-right: 60px;
+  margin-left: 80px;
+}
+
+.row{
+  padding: 30px;
+}
